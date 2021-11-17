@@ -1,0 +1,6 @@
+gansito;1000.0;250.0;1012;ramo;gr;false;false;60;./Data/ramo_gansito.jpg;10/12/21;
+AlimentoPerros;8000.0;8000.0;6548;DOGURMET;gr;false;false;100;./Data/dogurmet.png;10/12/25;
+Salmon;6000.0;500.0;9845;metro;gr;true;false;20;./Data/salmon.jpeg;10/09/21;
+vinocarmerene;30000.0;750.0;2346;panul;ml;false;false;50;./Data/vino.jpg;10/12/30;
+banana;4000.0;2000.0;4080;metro;gr;false;false;40;./Data/banana.png;10/08/21;
+pulpadefruta;3000.0;300.0;8464;laberraquera;gr;false;true;8;./Data/pulpa.png;10/12/25;

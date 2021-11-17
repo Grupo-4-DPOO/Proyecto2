@@ -1,0 +1,6 @@
+"almacenado;1000;ramo;250;1012;4;gansito;gr;false;false;empacado;10/12/21;./Data/ramo_gansito.jpg;50000;60;10000,"
+"almacenado;8000;DOGURMET;8000;6548;1;AlimentoPerros;gr;false;false;empacado;10/12/25;./Data/dogurmet.png;700000;100;10000"
+"noalmacenado;6000;metro;500;9845;2;Salmon;gr;false;true;empacado;10/09/21;./Data/salmon.jpeg;100000;20;10000"
+"almacenado;30000;panul;750;2346;2;vinocarmerene;ml;false;false;empacado;10/12/30;./Data/vino.jpg;1500000;50;10000.3"
+"noalmacenado;4000;metro;2000;4080;4;banana;gr;false;false;noempacado;10/08/21;./Data/banana.png;30000;40;10000"
+"noalmacenado;3000;laberraquera;300;8464;1;pulpadefruta;gr;true;false;empacado;10/12/25;./Data/pulpa.png;18000;8;10000.5"
